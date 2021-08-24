@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abdullah Al Marzan.
-- 👀 I’m interested in Bioinformatics
+- 👀 I’m interested in Bioinformatics.
 - 🌱 I’m currently learning Python & R pogramming language.
 - 💞️ I’m looking to collaborate with any Bioinformatics related project.
 - 📫 Mail: marzansust16@gmail.com 
