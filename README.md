@@ -46,9 +46,11 @@ I'm actively seeking opportunities to contribute to exciting **Bioinformatics pr
 
 ### 📈 My GitHub Activity:
 
-**Important Note regarding Contributions:** If your contributions are not showing correctly (e.g., 0 contributions despite having activity), it might be due to caching by the `github-readme-stats` service. I've added a parameter to encourage it to refresh more frequently. Please ensure your contributions are public or that `count_private=true` is correctly set in the URL (which it is). Also, confirm your contributions are visible on your actual GitHub profile page.
+**Important Note regarding Contributions:**
+The GitHub Stats badge directly reflects the data provided by GitHub's API, primarily for the current year's contributions. If it's still showing 0, even after making private contributions public, it is likely a caching delay from the `github-readme-stats` service or GitHub's own data propagation.
 
-# For testing, try this (then push, clear browser cache, check profile):
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marzan1&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=0)
+I've updated the badge URL to encourage a faster refresh. Please **save this `README.md`, push it to GitHub, and then perform a hard refresh of your browser cache** when viewing your profile page. If it doesn't update immediately, give it a few hours.
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marzan1&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1200)
 
 ---
