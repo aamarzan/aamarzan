@@ -46,11 +46,6 @@ I'm actively seeking opportunities to contribute to exciting **Bioinformatics pr
 
 ### 📈 My GitHub Activity:
 
-**Important Note regarding Contributions:**
-The GitHub Stats badge directly reflects the data provided by GitHub's API, primarily for the current year's contributions. If it's still showing 0, even after making private contributions public, it is likely a caching delay from the `github-readme-stats` service or GitHub's own data propagation.
-
-I've updated the badge URL to encourage a faster refresh. Please **save this `README.md`, push it to GitHub, and then perform a hard refresh of your browser cache** when viewing your profile page. If it doesn't update immediately, give it a few hours.
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marzan1&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1200)
 
 ---
