@@ -18,8 +18,8 @@ A passionate **Bioinformatics enthusiast** and **Deep Learning practitioner** ba
 I'm actively expanding my proficiency in the following technologies:
 
 **Languages:**
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
+[![Python](https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![R](https://img.shields.io/badge/R-2196F3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
 
 **Frameworks & Libraries:**
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
@@ -27,7 +27,9 @@ I'm actively expanding my proficiency in the following technologies:
 [![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
-[![Biopython](https://img.shields.io/badge/Biopython-1A5276?style=for-the-badge&logo=biopython&logoColor=white)](https://biopython.org/)
+[![Biopython](https://img.shields.io/badge/Biopython-1976D2?style=for-the-badge&logo=biopython&logoColor=white)](https://biopython.org/)
+
+*Note: Shields.io badges provide solid background colors. The "blueish gradient" effect across badges is achieved by using distinct shades of blue for related tools.*
 
 ---
 
@@ -44,6 +46,8 @@ I'm actively seeking opportunities to contribute to exciting **Bioinformatics pr
 
 ### 📈 My GitHub Activity:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marzan1&show_icons=true&theme=radical&hide_border=true&count_private=true)
+**Important Note regarding Contributions:** If your contributions are not showing correctly (e.g., 0 contributions despite having activity), it might be due to caching by the `github-readme-stats` service. I've added a parameter to encourage it to refresh more frequently. Please ensure your contributions are public or that `count_private=true` is correctly set in the URL (which it is). Also, confirm your contributions are visible on your actual GitHub profile page.
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marzan1&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=3600)
 
 ---
