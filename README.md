@@ -31,8 +31,6 @@ I'm actively expanding my proficiency in the following technologies:
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 [![Biopython](https://img.shields.io/badge/Biopython-1976D2?style=for-the-badge&logo=biopython&logoColor=white)](https://biopython.org/)
 
-*Note: Shields.io badges provide solid background colors. The "blueish gradient" effect across badges is achieved by using distinct shades of blue for related tools.*
-
 ---
 
 ### 🤝 Let's Connect & Collaborate!
