@@ -42,3 +42,4 @@ I'm actively seeking opportunities to contribute to exciting **Bioinformatics pr
 [![Stack Overflow](https://img.shields.io/badge/StackOverflow-Profile-orange?logo=stackoverflow)](https://stackoverflow.com/users/16745549/abdullah-al-marzan)
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:marzansust16@gmail.com)
 
+
