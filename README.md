@@ -1,49 +1,90 @@
-### 👋 Hi there! I'm Abdullah Al Marzan 🚀
+# 👋 Hi, I’m Marzan
 
-A passionate **Bioinformatics enthusiast** and **Deep Learning practitioner** based in Bangladesh.
-🎓 I recently graduated from Shahjalal University of Science and Technology, eager to explore the fascinating intersection of biology and computation.
+### Bioinformatics Enthusiast | Deep Learning Practitioner
 
-![Profile Views](https://komarev.com/ghpvc/?username=Marzan1)
-
----
-
-### 🌱 What I'm passionate about & constantly learning:
-
-* **Bioinformatics & Genomics:** 🧬 Diving deep into biological data to uncover meaningful insights.
-* **Deep Learning:** 🧠 Building intelligent models for complex biological problems and pattern recognition.
-* **Data Science:** 📊 Utilizing data-driven approaches to solve real-world challenges in life sciences.
+Welcome! I apply cutting-edge machine learning to biological data, focusing on the intersection of genomics, data science, and AI.
 
 ---
 
-### 🛠️ My Toolkit & Learning Journey:
+## 🧑‍💻 About Me
 
-I'm actively expanding my proficiency in the following technologies:
-
-**Languages:**
-[![Python](https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![R](https://img.shields.io/badge/R-2196F3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
-
-**Frameworks & Libraries:**
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-[![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)](https://keras.io/)
-[![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
-[![Biopython](https://img.shields.io/badge/Biopython-1976D2?style=for-the-badge&logo=biopython&logoColor=white)](https://biopython.org/)
+- **Expertise:** Bioinformatics, Deep Learning, Data Science
+- **Languages:** Python, R
+- **Frameworks/Libraries:** TensorFlow, Keras, Pandas, NumPy, Scikit-learn, Matplotlib, seaborn, ggplot2
+- **Interests:** Translating complex biological data into actionable insights using state-of-the-art computational methods
+- **Soft Skills:** Effective communicator, Collaborative team player, Lifelong learner
+- **Currently Exploring:** Explainable AI in genomics, Multi-omics data integration
 
 ---
 
-### 🤝 Let's Connect & Collaborate!
+## 🚀 Featured & Pinned Projects
 
-I'm actively seeking opportunities to contribute to exciting **Bioinformatics projects**, especially those involving Deep Learning, Machine Learning, or large-scale genomic data analysis. Feel free to reach out!
+⭐️ **Want to see my best work?**  
+GitHub lets you pin repositories directly to your profile—look for my "Pinned" section on my profile page!  
+Below are my top projects. Click to explore:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/abdullah-al-marzan-896a43187/)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-green?logo=researchgate)](https://www.researchgate.net/profile/Abdullah-Marzan)
-[![Stack Overflow](https://img.shields.io/badge/StackOverflow-Profile-orange?logo=stackoverflow)](https://stackoverflow.com/users/16745549/abdullah-al-marzan)
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:marzansust16@gmail.com)
+[![miRNA-RNA-Deep-Learning-Model](https://img.shields.io/badge/-miRNA--RNA--Deep--Learning--Model-blueviolet?logo=github&style=for-the-badge)](https://github.com/Marzan1/miRNA-RNA-Deep-Learning-Model)
+> Deep learning models for miRNA–RNA interaction prediction
+
+[![Code-for-heatmap](https://img.shields.io/badge/-Code--for--heatmap-orange?logo=r&logoColor=white&style=for-the-badge)](https://github.com/Marzan1/Code-for-heatmap)
+> Publication-ready heatmap scripts for biological data
+
+[![Base-R-GGPLOT](https://img.shields.io/badge/-Base--R--GGPLOT-333399?logo=r&logoColor=white&style=for-the-badge)](https://github.com/Marzan1/Base-R-GGPLOT)
+> Custom plotting techniques in R using ggplot2
+
+[![Mutation-analysis](https://img.shields.io/badge/-Mutation--analysis-009688?logo=python&logoColor=white&style=for-the-badge)](https://github.com/Marzan1/Mutation-analysis)
+> Mutation analysis pipelines and visualization tools
+
+> **Tip:** To pin a repository, click the "Customize your pins" button on your GitHub profile and select your top projects for greater visibility!
 
 ---
 
-### 📈 My GitHub Activity:
+## 📊 Contribution Activity at a Glance
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marzan1&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1200)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Marzan1&theme=default)
+> **Active this year:** 63+ contributions and counting!  
+> _Consistency and meaningful collaboration matter more than raw numbers._
+
+---
+
+## 🏆 Badges & Highlights
+
+![Profile Views](https://komarev.com/ghpvc/?username=Marzan1&style=flat-square)
+![Bioinformatics Enthusiast](https://img.shields.io/badge/Bioinformatics-Enthusiast-success?style=flat-square)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Practitioner-blueviolet?style=flat-square)
+![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-important?style=flat-square)
+![Lifelong Learner](https://img.shields.io/badge/Lifelong-Learner-informational?style=flat-square)
+
+---
+
+## 📰 Trending & Now
+
+- 💡 Developing explainable deep learning workflows for genomics
+- 📖 Reading: "Deep Learning for the Life Sciences" by Bharath Ramsundar et al.
+- 🗣️ Attending: Virtual bioinformatics meetups and ML in health conferences
+
+---
+
+## 🤝 Let’s Connect & Collaborate!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/marzan25/)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=white&style=flat-square)](https://www.researchgate.net/profile/Abdullah-Marzan)
+[![Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A16?logo=stackoverflow&logoColor=white&style=flat-square)](https://stackoverflow.com/users/16745549/abdullah-al-marzan)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:marzansust16@gmail.com)
+
+---
+
+## 🎨 Fun Fact
+
+When I’m not coding, you’ll find me drawing and sketching!
+
+---
+
+> *“The greatest value of a picture is when it forces us to notice what we never expected to see.” — John Tukey*
+
+---
+
+<!--
+🌱 Always open to collaboration on projects blending biology and machine learning.
+Pin your repositories using the GitHub UI for maximum impact!
+-->
