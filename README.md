@@ -44,8 +44,4 @@ I'm actively seeking opportunities to contribute to exciting **Bioinformatics pr
 
 ---
 
-### 📈 My GitHub Activity:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marzan1&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1200)
-
----
+### 📈
