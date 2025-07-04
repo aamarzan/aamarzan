@@ -42,7 +42,6 @@ Below are my top projects. Click to explore:
 ## 📊 Contribution Activity at a Glance
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Marzan1&theme=default)
-> **Active this year:** 63+ contributions and counting!  
 > _Consistency and meaningful collaboration matter more than raw numbers._
 
 ---
