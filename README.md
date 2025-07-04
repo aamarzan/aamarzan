@@ -35,8 +35,6 @@ Below are my top projects. Click to explore:
 [![Mutation-analysis](https://img.shields.io/badge/-Mutation--analysis-009688?logo=python&logoColor=white&style=for-the-badge)](https://github.com/Marzan1/Mutation-analysis)
 > Mutation analysis pipelines and visualization tools
 
-> **Tip:** To pin a repository, click the "Customize your pins" button on your GitHub profile and select your top projects for greater visibility!
-
 ---
 
 ## 📊 Contribution Activity at a Glance
