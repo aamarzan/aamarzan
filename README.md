@@ -39,7 +39,7 @@ Below are my top projects. Click to explore:
 
 ## 📊 Contribution Consistency
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Marzan1&theme=default)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Marzan1&random=123)
 
 > _I value steady, meaningful contributions and collaborative progress over raw numbers or daily streaks._
 
