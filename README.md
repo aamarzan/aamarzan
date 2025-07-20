@@ -23,23 +23,23 @@ Welcome! I apply cutting-edge machine learning to biological data, focusing on t
 GitHub lets you pin repositories directly to your profile—look for my "Pinned" section on my profile page!  
 Below are my top projects. Click to explore:
 
-[![miRNA-RNA-Deep-Learning-Model](https://img.shields.io/badge/-miRNA--RNA--Deep--Learning--Model-blueviolet?logo=github&style=for-the-badge)](https://github.com/Marzan1/miRNA-RNA-Deep-Learning-Model)
+[![miRNA-RNA-Deep-Learning-Model](https://img.shields.io/badge/-miRNA--RNA--Deep--Learning--Model-blueviolet?logo=github&style=for-the-badge)](https://github.com/abdullah-al-marzan/miRNA-RNA-Deep-Learning-Model)
 > Deep learning models for miRNA–RNA interaction prediction
 
-[![Code-for-heatmap](https://img.shields.io/badge/-Code--for--heatmap-orange?logo=r&logoColor=white&style=for-the-badge)](https://github.com/Marzan1/Code-for-heatmap)
+[![Code-for-heatmap](https://img.shields.io/badge/-Code--for--heatmap-orange?logo=r&logoColor=white&style=for-the-badge)](https://github.com/abdullah-al-marzan/Code-for-heatmap)
 > Publication-ready heatmap scripts for biological data
 
-[![Base-R-GGPLOT](https://img.shields.io/badge/-Base--R--GGPLOT-333399?logo=r&logoColor=white&style=for-the-badge)](https://github.com/Marzan1/Base-R-GGPLOT)
+[![Base-R-GGPLOT](https://img.shields.io/badge/-Base--R--GGPLOT-333399?logo=r&logoColor=white&style=for-the-badge)](https://github.com/abdullah-al-marzan/Base-R-GGPLOT)
 > Custom plotting techniques in R using ggplot2
 
-[![Mutation-analysis](https://img.shields.io/badge/-Mutation--analysis-009688?logo=python&logoColor=white&style=for-the-badge)](https://github.com/Marzan1/Mutation-analysis)
+[![Mutation-analysis](https://img.shields.io/badge/-Mutation--analysis-009688?logo=python&logoColor=white&style=for-the-badge)](https://github.com/abdullah-al-marzan/Mutation-analysis)
 > Mutation analysis pipelines and visualization tools
 
 ---
 
 ## 📊 Contribution Consistency
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Marzan1&random=123)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdullah-al-marzan&random=123)
 
 > _I value steady, meaningful contributions and collaborative progress over raw numbers or daily streaks._
 
@@ -47,7 +47,7 @@ Below are my top projects. Click to explore:
 
 ## 🏆 Badges & Highlights
 
-![Profile Views](https://komarev.com/ghpvc/?username=Marzan1&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=abdullah-al-marzan&style=flat-square)
 ![Bioinformatics Enthusiast](https://img.shields.io/badge/Bioinformatics-Enthusiast-success?style=flat-square)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Practitioner-blueviolet?style=flat-square)
 ![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-important?style=flat-square)
