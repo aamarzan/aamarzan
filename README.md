@@ -64,10 +64,10 @@
 <summary align="center"><h2><img alt="GIF" src="./images/laptop.gif" width="25px"> Featured Projects </h2></summary>
   <div align="center">
       <br>
-      <a href="https://github.com/abdullah-al-marzan/miRNA-RNA-Deep-Learning-Model" target="_blank"><img src="https://img.shields.io/badge/-miRNA--RNA--Deep--Learning--Model-blueviolet?logo=github&style=for-the-badge"></a>
-      <a href="https://github.com/abdullah-al-marzan/Code-for-heatmap" target="_blank"><img src="https://img.shields.io/badge/-Code--for--heatmap-orange?logo=r&logoColor=white&style=for-the-badge"></a>
-      <a href="https://github.com/abdullah-al-marzan/Base-R-GGPLOT" target="_blank"><img src="https://img.shields.io/badge/-Base--R--GGPLOT-333399?logo=r&logoColor=white&style=for-the-badge"></a>
-      <a href="https://github.com/abdullah-al-marzan/Mutation-analysis" target="_blank"><img src="https://img.shields.io/badge/-Mutation--analysis-009688?logo=python&logoColor=white&style=for-the-badge"></a>
+      <a href="https://github.com/aamarzan/miRNA-RNA-Deep-Learning-Model" target="_blank"><img src="https://img.shields.io/badge/-miRNA--RNA--Deep--Learning--Model-blueviolet?logo=github&style=for-the-badge"></a>
+      <a href="https://github.com/aamarzan/Code-for-heatmap" target="_blank"><img src="https://img.shields.io/badge/-Code--for--heatmap-orange?logo=r&logoColor=white&style=for-the-badge"></a>
+      <a href="https://github.com/aamarzan/Base-R-GGPLOT" target="_blank"><img src="https://img.shields.io/badge/-Base--R--GGPLOT-333399?logo=r&logoColor=white&style=for-the-badge"></a>
+      <a href="https://github.com/aamarzan/Mutation-analysis" target="_blank"><img src="https://img.shields.io/badge/-Mutation--analysis-009688?logo=python&logoColor=white&style=for-the-badge"></a>
       <br><br>
   </div>
 </details>
@@ -76,14 +76,14 @@
 <summary align="center"><h2> <img alt="GIF" src="./images//statistics.gif" width="25px"> Profile Statistics </h2></summary>
   <div align="center">
     <br>
-    <img src="https://komarev.com/ghpvc/?username=abdullah-al-marzan&label=PROFILE+VIEWS&style=flat-square&color=blueviolet" alt="Profile views"/>
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-al-marzan&theme=transparent&fire=D8D8D8&ring=D8D8D8&currStreakNum=D8D8D8&sideNums=D8D8D8&currStreakLabel=84C2C0&sideLabels=D8D8D8&dates=D8D8D8&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+    <img src="https://komarev.com/ghpvc/?username=aamarzan&label=PROFILE+VIEWS&style=flat-square&color=blueviolet" alt="Profile views"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aamarzan&theme=transparent&fire=D8D8D8&ring=D8D8D8&currStreakNum=D8D8D8&sideNums=D8D8D8&currStreakLabel=84C2C0&sideLabels=D8D8D8&dates=D8D8D8&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
     <br><br>
-    <img height="192px" alt="Marzan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-al-marzan&theme=transparent&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact" weight=41% height="192px"/>
-    <img height="192px" src="https://github-readme-stats.vercel.app/api?username=abdullah-al-marzan&theme=transparent&rank_icon=github&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&custom_title=GitHub⠀Stats&show_icons=true"/>
+    <img height="192px" alt="Marzan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aamarzan&theme=transparent&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact" weight=41% height="192px"/>
+    <img height="192px" src="https://github-readme-stats.vercel.app/api?username=aamarzan&theme=transparent&rank_icon=github&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&custom_title=GitHub⠀Stats&show_icons=true"/>
   </div>
   <div align="center">
-    <a href="https://github.com/abdullah-al-marzan"><img alt="Marzan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=abdullah-al-marzan&bg_color=00000000&title_color=84C2C0&color=84C2C0&line=84C2C0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
+    <a href="https://github.com/aamarzan"><img alt="Marzan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=aamarzan&bg_color=00000000&title_color=84C2C0&color=84C2C0&line=84C2C0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
   </div>
 <br>
 </details>
