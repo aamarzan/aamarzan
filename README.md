@@ -7,8 +7,8 @@
 
 <details open>
     <summary align="center"><h2> <img alt="GIF" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="30px" /> Briefly about me </h2></summary>
-    <p align="center"> I am a Bioinformatics Enthusiast & Deep Learning Practitioner <img src="https://media.giphy.com/media/WUlplcMpOCemTz4Xig/giphy.gif" width="30px"> from Dhaka, Bangladesh.</p>
-    <img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="35%"/>
+    <p align="center"> I am a Bioinformatics Enthusiast & Deep Learning Practitioner <img src="./images/cat-coder.gif" width="30px"> from Dhaka, Bangladesh.</p>
+    <img align="right" alt="GIF" src="./images/ai.gif" width=35% height=45%/>
     <h3> <img alt="GIF" src="./images/paper.gif" width="20px" />  A little more detail: </h3>
     <ul>
         <li><a> I focus on the intersection of genomics, data science, and AI.</a></li><br>
