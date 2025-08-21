@@ -9,18 +9,18 @@
     <summary align="center"><h2> <img alt="GIF" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="30px" /> Briefly about me </h2></summary>
     <p align="center"> I am a Bioinformatics Enthusiast & Deep Learning Practitioner <img src="https://media.giphy.com/media/WUlplcMpOCemTz4Xig/giphy.gif" width="30px"> from Dhaka, Bangladesh.</p>
     <img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="35%"/>
-    <h3> <img alt="GIF" src="https://media.giphy.com/media/ பாத/giphy.gif" width="20px" />  A little more detail: </h3>
+    <h3> <img alt="GIF" src="./images/paper.gif" width="20px" />  A little more detail: </h3>
     <ul>
-        <li><a><img alt="GIF" src="https://media.giphy.com/media/IdaCpe10w3fx6/giphy.gif" width="30px"/>&nbsp; I focus on the intersection of genomics, data science, and AI.</a></li><br>
-        <li><a><img alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="30px" />&nbsp;  I translate complex biological data into actionable insights.</a></li><br>
-        <li><a><img alt="GIF" src="https://media.giphy.com/media/kbt1t88QWrI1W/giphy.gif" width="30px" />&nbsp; I'm currently exploring Explainable AI (XAI) in genomics.</a></li><br>
-        <li><a><img alt="GIF" src="https://media.giphy.com/media/4QFAH0qZ0LQnIuA5K2/giphy.gif" width="30px" />&nbsp; I am a lifelong learner, always open to collaboration!</a></li><br>
+        <li><a> I focus on the intersection of genomics, data science, and AI.</a></li><br>
+        <li><a> I translate complex biological data into actionable insights.</a></li><br>
+        <li><a> I'm currently exploring Explainable AI (XAI) in genomics.</a></li><br>
+        <li><a> I am a lifelong learner, always open to collaboration!</a></li><br>
     </ul>
 <br>
 </details>
 
 <details open>
-<summary align="center"><h2 ><img alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Nqbnk2aGQ1b3N6dWl3aDU2b2M4dHZqb2g4Z3B0cDdqb3A1NmZ2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/13xRgb4a0l8n9S/giphy.gif" width="25px"> Social Media </h2></summary>
+<summary align="center"><h2 ><img alt="GIF" src="./images//handshake2.gif" width="25px"> Social Media </h2></summary>
 <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/marzan25/" target="_blank">
     <img lign="left" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" alt="LinkedIn"/>
@@ -36,7 +36,7 @@
 </details>
 
 <details open>
-    <summary align="center"><h2><img alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjQ0Nzl0NXNvanRtZ2RhZ3QwdTRldG9haWdqMmE5eGQ5djZnM2w4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rH4STTV6GoiHT004rI/giphy.gif" width="25px"> ❤️ Favorite Languages and Tools </h2></summary>
+    <summary align="center"><h2><img alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjQ0Nzl0NXNvanRtZ2RhZ3QwdTRldG9haWdqMmE5eGQ5djZnM2w4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rH4STTV6GoiHT004rI/giphy.gif" width="25px"> Favorite Languages and Tools </h2></summary>
 <div align="center">
     <p></p>
     <a href="https://www.python.org/" target="_blank"> <img alt="Python" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
@@ -50,7 +50,7 @@
 </details>
 
 <details>
-<summary align="center"><h2><img alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHZvb3RzaDUyMm52eDN2dHQxN2V5M2R2Z3piY2J2cDl4ZGNueXVmbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l0HlxU1x2S3xU2Sg8/giphy.gif" width="25px">Other Tools </h2></summary>
+<summary align="center"><h2><img alt="GIF" src="./images/laptop_code.gif" width="25px"> Other Tools </h2></summary>
 <div align="center">
     <p></p>
     <a href="https://matplotlib.org/" target="_blank"> <img alt="matplotlib" height ="42px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png" /></a>
@@ -61,7 +61,7 @@
 </details>
 
 <details open>
-<summary align="center"><h2><img alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmVpM2loeXFoc3Z5ZmJpZ3E0bXZvMXNucHY1dmdseDBtM2NqZ3A0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7WTt7jETbE0aN6wM/giphy.gif" width="25px"> 🚀 Featured Projects </h2></summary>
+<summary align="center"><h2><img alt="GIF" src="./images/laptop.gif" width="25px"> Featured Projects </h2></summary>
   <div align="center">
       <br>
       <a href="https://github.com/abdullah-al-marzan/miRNA-RNA-Deep-Learning-Model" target="_blank"><img src="https://img.shields.io/badge/-miRNA--RNA--Deep--Learning--Model-blueviolet?logo=github&style=for-the-badge"></a>
@@ -73,7 +73,7 @@
 </details>
 
 <details open>
-<summary align="center"><h2> <img alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3h0ZXNoYzRtc2I2dmtkZ2Zic3gyMDF2bDI2M3hybXR0bmF1dGl6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/K6aZla2te2d68/giphy.gif" width="25px"> Profile Statistics </h2></summary>
+<summary align="center"><h2> <img alt="GIF" src="./images//statistics.gif" width="25px"> Profile Statistics </h2></summary>
   <div align="center">
     <br>
     <img src="https://komarev.com/ghpvc/?username=abdullah-al-marzan&label=PROFILE+VIEWS&style=flat-square&color=blueviolet" alt="Profile views"/>
