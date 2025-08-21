@@ -77,7 +77,7 @@
   <div align="center">
     <br>
     <img src="https://komarev.com/ghpvc/?username=abdullah-al-marzan&label=PROFILE+VIEWS&style=flat-square&color=blueviolet" alt="Profile views"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-al-marzan&theme=transparent&title_color=84C2C0&text_color=FFFFFF&date_format=j%20M%5B%20Y%5D&hide_border=true" alt="GitHub Streak" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-al-marzan&theme=transparent&fire=D8D8D8&ring=D8D8D8&currStreakNum=D8D8D8&sideNums=D8D8D8&currStreakLabel=84C2C0&sideLabels=D8D8D8&dates=D8D8D8&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
     <br><br>
     <img height="192px" alt="Marzan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-al-marzan&theme=transparent&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact" weight=41% height="192px"/>
     <img height="192px" src="https://github-readme-stats.vercel.app/api?username=abdullah-al-marzan&theme=transparent&rank_icon=github&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&custom_title=GitHub⠀Stats&show_icons=true"/>
