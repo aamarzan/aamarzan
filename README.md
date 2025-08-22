@@ -72,11 +72,12 @@
   </div>
 </details>
 
+<summary align="center"><img src="https://komarev.com/ghpvc/?username=aamarzan&label=PROFILE+VIEWS&style=flat-square&color=blueviolet" alt="Profile views"/></summary>
 <details open>
 <summary align="center"><h2> <img alt="GIF" src="./images//statistics.gif" width="25px"> Profile Statistics </h2></summary>
   <div align="center">
     <br>
-    <img src="https://komarev.com/ghpvc/?username=aamarzan&label=PROFILE+VIEWS&style=flat-square&color=blueviolet" alt="Profile views"/>
+    
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aamarzan&theme=transparent&fire=D8D8D8&ring=D8D8D8&currStreakNum=D8D8D8&sideNums=D8D8D8&currStreakLabel=84C2C0&sideLabels=D8D8D8&dates=D8D8D8&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
     <br><br>
     <img height="192px" alt="Marzan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aamarzan&theme=transparent&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact" weight=41% height="192px"/>
